@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/d2a2c5ee-48d3-44eb-a199-f1c3278431e8" width= "1000px" height= "300px" alt="description of image">
+<img src="https://github.com/user-attachments/assets/d2a2c5ee-48d3-44eb-a199-f1c3278431e8" width= "900px" height= "250px" alt="description of image">
 
 <h1 align="center">Hi 👋, I'm Aakash Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
