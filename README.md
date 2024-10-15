@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aakash Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" align="right" height="350" width="600" alt="Coding Animation" />
+<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" align="right" height="350" width="500" alt="Coding Animation" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgoyall&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgoyall" /> </p>
 
